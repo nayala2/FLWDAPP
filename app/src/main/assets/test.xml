@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<markers>
+
+    <marker>
+        <lat>51.60002</lat>
+        <lng>0.518862</lng>
+        <icon>landmark</icon>
+    </marker>
+    <marker>
+        <lat>57.60002</lat>
+        <lng>1.518862</lng>
+        <icon>landmark</icon>
+    </marker>
+    <marker>
+        <lat>61.60002</lat>
+        <lng>0.518862</lng>
+        <icon>landmark</icon>
+    </marker>
+    <marker>
+        <lat>76.60002</lat>
+        <lng>0.518862</lng>
+        <icon>landmark</icon>
+    </marker>
+    <marker>
+        <lat>29.60002</lat>
+        <lng>0.518862</lng>
+        <icon>landmark</icon>
+    </marker>
+
+</markers>

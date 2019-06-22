@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mapper>
+    <sites>
+        <site sno="02479945" sna="BIG CREEK AT COUNTY RD 63 NEAR WILMER, AL." cat="ST"
+            lat="30.85601968" lng="-88.3338988" agc="USGS" />
+    </sites>
+
+    <sites>
+        <site sno="02479980" sna="CROOKED CREEK NEAR FAIRVIEW, AL." cat="ST" lat="30.78018805"
+            lng="-88.3188979" agc="USGS" />
+    </sites>
+
+    <sites>
+        <site sno="02448900" sna="BODKA CREEK NEAR GEIGER, AL." cat="ST" lat="32.80707585"
+            lng="-88.3119761" agc="USGS" />
+    </sites>
+
+    <sites>
+        <site sno="02448500" sna="NOXUBEE RIVER NR GEIGER, AL" cat="ST" lat="32.9326287"
+            lng="-88.2978103" agc="USGS" />
+    </sites>
+
+    <sites>
+        <site sno="02444161" sna="TOMBIGBEE RIVER BEL BEVIL L&amp;D NR PICKENSVILLE, AL." cat="ST"
+            lat="33.21040097" lng="-88.2886454" agc="USGS" />
+    </sites>
+
+    <sites>
+        <site sno="02444160" sna="TOMBIGBEE RIVER AT BEVILL L&amp;D NR PICKENSVILLE, AL" cat="ST"
+            lat="33.21067874" lng="-88.2886454" agc="USGS" />
+    </sites>
+
+    <sites>
+        <site sno="02480002" sna="HAMILTON CREEK AT SNOW ROAD NEAR SEMMES, AL." cat="ST"
+            lat="30.7260225" lng="-88.2763955" agc="USGS" />
+    </sites>
+
+    <sites>
+        <site sno="02467500" sna="SUCARNOOCHEE RIVER AT LIVINGSTON AL" cat="ST" lat="32.57374714"
+            lng="-88.1933589" agc="USGS" />
+    </sites>
+
+    <sites>
+        <site sno="02471078" sna="FOWL RIVER AT HALF-MILE RD NEAR LAURENDINE, AL." cat="ST"
+            lat="30.50075106" lng="-88.1813906" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02447025" sna="TOMBIGBEE R AT HEFLIN L&amp;D NR GAINESVILLE ALA." cat="ST"
+            lat="32.8481856" lng="-88.1561363" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02447026" sna="TOMBIGBEE R BLW HEFLIN L&amp;D NR GAINESVILLE, ALA" cat="ST"
+            lat="32.85235218" lng="-88.1541918" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02471001" sna="CHICKASAW CREEK NEAR KUSHLA AL" cat="ST" lat="30.80296466"
+            lng="-88.1433355" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02469761" sna="TOMBIGBEE R AT COFFEEVILLE L&amp;D NR COFFEEVILLE, AL." cat="ST"
+            lat="31.75849066" lng="-88.1291763" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02469762" sna="TOMBIGBEE R BL COFFEEVILLE L&amp;D NEAR COFFEEVILLE" cat="ST"
+            lat="31.7571018" lng="-88.1250095" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="03592500" sna="BEAR CREEK AT BISHOP,AL." cat="ST" lat="34.65592635"
+            lng="-88.1225408" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="03592000" sna="BEAR CREEK NEAR RED BAY, AL." cat="ST" lat="34.4439866"
+            lng="-88.1155963" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02469525" sna="TOMBIGBEE RIVER NEAR NANAFALIA, AL." cat="ST" lat="32.13014697"
+            lng="-88.0411267" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02469800" sna="SATILPA CREEK NEAR COFFEEVILLE AL" cat="ST" lat="31.7443247"
+            lng="-88.0225066" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02469100" sna="TOMBIGBEE RIVER AT PENNINGTON AL" cat="ST" lat="32.2376437"
+            lng="-88.0083498" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02438000" sna="BUTTAHATCHEE RIVER BELOW HAMILTON AL" cat="ST" lat="34.10621294"
+            lng="-87.9894765" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02470050" sna="TOMBIGBEE RIVER AT STEAMPLANT NR LEROY, AL" cat="ST"
+            lat="31.48599734" lng="-87.9088882" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02378790" sna="TIAWASEE CREEK NEAR BRIDGEHEAD, AL" cat="ST" lat="30.6427861"
+            lng="-87.8917917" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02378780" sna="D'OLIVE CREEK NEAR BRIDGEHEAD, AL" cat="ST" lat="30.65206944"
+            lng="-87.8896472" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02467001" sna="TOMBIGBEE RIVER BL DEMOPOLIS L&amp;D NEAR COATOPA AL" cat="ST"
+            lat="32.52096964" lng="-87.8800143" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02467000" sna="TOMBIGBEE R AT DEMOPOLIS L&amp;D NEAR COATOPA, AL." cat="ST"
+            lat="32.51958077" lng="-87.8783476" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02466031" sna="BLACK WARRIOR RIVER BELOW SELDEN DAM NR EUTAW, AL" cat="ST"
+            lat="32.7773528" lng="-87.841402" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02466030" sna="BLACK WARRIOR RIVER AT SELDEN L &amp; D NEAR EUTAW, AL" cat="ST"
+            lat="32.77790835" lng="-87.8405687" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02378500" sna="FISH RIVER NEAR SILVER HILL AL" cat="ST" lat="30.54547146"
+            lng="-87.79860149" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02446500" sna="SIPSEY RIVER NR ELROD, AL" cat="ST" lat="33.25706249"
+            lng="-87.7764022" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02470072" sna="BASSETT CREEK AT US HIGHWAY 43 NR THOMASVILLE, AL." cat="ST"
+            lat="31.86404249" lng="-87.7472247" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02378300" sna="MAGNOLIA RIVER AT US 98 NEAR FOLEY, ALABAMA" cat="ST"
+            lat="30.40658669" lng="-87.7369323" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="03590000" sna="CYPRESS CREEK NEAR FLORENCE AL" cat="ST" lat="34.8078655"
+            lng="-87.7005847" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="03589500" sna="TENNESSEE RIVER AT FLORENCE AL" cat="ST" lat="34.78703254"
+            lng="-87.6700288" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02378170" sna="WOLF CREEK BELOW FOLEY, ALA" cat="ST" lat="30.3882541"
+            lng="-87.652763" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02464360" sna="BINION CREEK BELOW GIN CREEK NEAR SAMANTHA AL" cat="ST"
+            lat="33.42483704" lng="-87.6425091" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02465493" sna="ELLIOTTS CREEK AT MOUNDVILLE AL" cat="ST" lat="32.99734636"
+            lng="-87.6222295" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02377560" sna="STYX R NR LOXLEY, AT SMITHS SIDING, ALA" cat="ST"
+            lat="30.63713636" lng="-87.6072077" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02464000" sna="NORTH RIVER NEAR SAMANTHA AL" cat="ST" lat="33.47928058"
+            lng="-87.5972297" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02465005" sna="BLACK WARRIOR R BL OLIVER L&amp;D NEAR TUSCALOOSA, AL." cat="ST"
+            lat="33.20789644" lng="-87.5933408" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02465000" sna="BLACK WARRIOR RIVER AT NORTHPORT AL" cat="ST" lat="33.20928528"
+            lng="-87.5900074" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02464660" sna="CARROLL CREEK AT ST HWY 69 NR NORTHPORT AL" cat="ST"
+            lat="33.294839" lng="-87.5683402" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02465292" sna="CRIBBS MILL CREEK AT WW PLANT AT TUSCALOOSA, AL." cat="ST"
+            lat="33.17484164" lng="-87.5647288" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02428401" sna="ALABAMA RIVER BEL CLAIB. L&amp;D NR MONROEVILLE, AL." cat="ST"
+            lat="31.61349189" lng="-87.550548" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02428400" sna="ALABAMA RIVER AT CLAIBORNE L&amp;D NEAR MONROEVILLE" cat="ST"
+            lat="31.61515849" lng="-87.550548" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02377570" sna="STYX RIVER NEAR ELSANOR, AL." cat="ST" lat="30.6057484"
+            lng="-87.5472057" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02429500" sna="ALABAMA RIVER AT CLAIBORNE AL" cat="ST" lat="31.54682748"
+            lng="-87.5124908" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02464146" sna="TURKEY CREEK NEAR TUSCALOOSA" cat="ST" lat="33.41344824"
+            lng="-87.5105601" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02464800" sna="LAKE TUSCALOOSA NEAR TUSCALOOSA, ALABAMA" cat="LK"
+            lat="33.2673393" lng="-87.5061161" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02377750" sna="STYX RIVER AT SEMINOLE, ALA" cat="ST" lat="30.51825089"
+            lng="-87.4627577" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02462952" sna="BLACK WARRIOR RIVER BELOW HOLT L&amp;D NEAR HOLT AL" cat="ST"
+            lat="33.2528948" lng="-87.4513926" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02462951" sna="BLACK WARRIOR RIVER AT HOLT L&amp;D NEAR HOLT AL." cat="ST"
+            lat="33.25317258" lng="-87.4491703" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02450825" sna="CLEAR C AT NEW HOPE CHURCH NR POPLAR SPRINGS, AL." cat="ST"
+            lat="34.08121506" lng="-87.422793" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02427505" sna="ALABAMA RIVER AT MILLERS FERRY DAM, NR. CAMDEN, AL" cat="LK"
+            lat="32.10070089" lng="-87.3991621" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02450250" sna="SIPSEY FORK NEAR GRAYSON AL" cat="ST" lat="34.28537757"
+            lng="-87.3989084" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02427506" sna="ALABAMA RIVER BELOW MILLERS FERRY L&amp;D NR CAMDEN AL" cat="ST"
+            lat="32.10014534" lng="-87.39777319" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02454080" sna="CANE CREEK AT STATE HWY 18 AT OAKMAN, AL" cat="ST"
+            lat="33.7092766" lng="-87.3905601" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02374950" sna="BIG ESCAMBIA CR AT SARDINE BR NR STANLEY CROSSROAD" cat="ST"
+            lat="31.12962115" lng="-87.3705353" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02462501" sna="BLACK WARRIOR R BL BANKHEAD L&amp;D NEAR BESSEMER AL" cat="ST"
+            lat="33.45705687" lng="-87.355001" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02462500" sna="BLACK WARRIOR R AT BANKHEAD L&amp;D NEAR BESSEMER AL" cat="ST"
+            lat="33.4584457" lng="-87.3541677" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02454055" sna="LOST CREEK ABOVE PARRISH, AL." cat="ST" lat="33.7417756"
+            lng="-87.3269483" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="03586500" sna="BIG NANCE CREEK AT COURTLAND AL" cat="ST" lat="34.67009046"
+            lng="-87.3172429" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02427020" sna="BOGUE CHITTO CREEK AT CO RD 115 BELOW ORRVILLE, AL" cat="ST"
+            lat="32.2770847" lng="-87.2813831" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02375000" sna="BIG ESCAMBIA CREEK AT FLOMATON AL" cat="ST" lat="31.01073709"
+            lng="-87.2627518" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02453000" sna="BLACKWATER CREEK NEAR MANCHESTER AL" cat="ST" lat="33.90843985"
+            lng="-87.2569514" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02424590" sna="CAHABA RIVER NEAR SUTTLE, AL." cat="ST" lat="32.5293002"
+            lng="-87.198884" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02427830" sna="PURSLEY CREEK ABOVE ESTELLE, AL" cat="ST" lat="31.9412602"
+            lng="-87.1866538" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02425000" sna="CAHABA RIVER NEAR MARION JUNCTION AL" cat="ST" lat="32.44402456"
+            lng="-87.1802715" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02453500" sna="MULBERRY FORK AT CORDOVA AL" cat="ST" lat="33.75760677"
+            lng="-87.1702791" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02424000" sna="CAHABA RIVER AT CENTREVILLE AL" cat="ST" lat="32.9451238"
+            lng="-87.1391623" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02462000" sna="VALLEY CREEK NEAR OAK GROVE AL" cat="ST" lat="33.44733226"
+            lng="-87.1222186" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02374745" sna="BURNT CORN CREEK AT STATE HWY 41 NEAR BREWTON, AL." cat="ST"
+            lat="31.1298991" lng="-87.0871928" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02374700" sna="MURDER CREEK AT STATE HWY 41 AT BREWTON, AL." cat="ST"
+            lat="31.10101137" lng="-87.06885829" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02427250" sna="PINE BARREN CREEK NEAR SNOW HILL, AL." cat="ST" lat="31.99625809"
+            lng="-87.0683187" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02374250" sna="CONECUH RIVER AT STATE HWY 41 NEAR BREWTON, AL." cat="ST"
+            lat="31.06712374" lng="-87.0616352" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02423647" sna="CAHABA RIVER NEAR WEST BLOCTON AL" cat="ST" lat="33.09817509"
+            lng="-87.054716" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02423000" sna="ALABAMA RIVER AT SELMA AL" cat="ST" lat="32.40569225"
+            lng="-87.0186007" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02461640" sna="VALLEY CREEK BELOW BESSEMER, AL." cat="ST" lat="33.39983244"
+            lng="-86.9933268" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02374500" sna="MURDER CREEK NEAR EVERGREEN AL" cat="ST" lat="31.41850006"
+            lng="-86.9866403" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02456500" sna="LOCUST FORK AT SAYRE, AL." cat="ST" lat="33.7098268"
+            lng="-86.9833305" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02461500" sna="VALLEY CREEK NEAR BESSEMER, AL" cat="ST" lat="33.4192762"
+            lng="-86.9827711" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="03577150" sna="TENNESSEE RIVER AT DECATUR AL" cat="ST" lat="34.6131475"
+            lng="-86.9738969" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02423630" sna="SHADES CREEK NEAR GREENWOOD AL" cat="ST" lat="33.3262234"
+            lng="-86.9497141" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="03577225" sna="SWAN CREEK BELOW ATHENS, ALA" cat="ST" lat="34.7639782"
+            lng="-86.9463954" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="03576500" sna="FLINT CREEK NEAR FALKVILLE AL" cat="ST" lat="34.37315189"
+            lng="-86.933617" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02458600" sna="VILLAGE CREEK NEAR DOCENA, ALABAMA" cat="ST" lat="33.5481615"
+            lng="-86.9258266" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02450180" sna="MULBERRY FORK NEAR ARKADELPHIA, AL." cat="ST" lat="33.87204689"
+            lng="-86.9222211" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02422500" sna="MULBERRY CREEK AT JONES AL" cat="ST" lat="32.5829103"
+            lng="-86.9035991" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02458502" sna="VILLAGE CREEK NEAR PRATT CITY, ALABAMA" cat="ST" lat="33.5239948"
+            lng="-86.8911032" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02423555" sna="CAHABA RIVER NEAR HELENA AL" cat="ST" lat="33.28455786"
+            lng="-86.8824901" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02458450" sna="VILLAGE CREEK AT AVENUE W AT ENSLEY, AL" cat="ST" lat="33.5176059"
+            lng="-86.8791584" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02461192" sna="VALLEY CREEK AT AVE W NEAR ENSLEY, AL" cat="ST" lat="33.4926111"
+            lng="-86.8721722" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02457595" sna="FIVEMILE CREEK NEAR REPUBLIC, AL" cat="ST" lat="33.5970492"
+            lng="-86.8680483" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02461130" sna="VALLEY CREEK AT CENTER ST AT BIRMINGHAM, AL" cat="ST"
+            lat="33.5057722" lng="-86.8364556" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="03576250" sna="LIMESTONE CREEK NEAR ATHENS AL" cat="ST" lat="34.751757"
+            lng="-86.8233348" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02458300" sna="VILLAGE CREEK AT 24TH ST. AT BIRMINGHAM, AL" cat="ST"
+            lat="33.54260504" lng="-86.8174907" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02423500" sna="CAHABA RIVER NEAR ACTON AL" cat="ST" lat="33.36344373"
+            lng="-86.8130446" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="0242354750" sna="CAHABA VALLEY CREEK AT CROSS CR RD AT PELHAM, AL." cat="ST"
+            lat="33.31344546" lng="-86.8063775" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02374050" sna="FOLLEY CREEK NEAR DIXIE, AL" cat="ST" lat="31.12778056"
+            lng="-86.7964806" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02373000" sna="SEPULGA RIVER NEAR MCKENZIE AL" cat="ST" lat="31.4537758"
+            lng="-86.7869139" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02421350" sna="ALABAMA RIVER AT ROBERT F HENRY LOCK AND DAM" cat="ST"
+            lat="32.32513829" lng="-86.7847045" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02423496" sna="CAHABA RIVER NEAR HOOVER, AL" cat="ST" lat="33.3692767"
+            lng="-86.7841551" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02421351" sna="ALABAMA RIVER BL ROBERT F HENRY L&amp;D NEAR BENTON,AL" cat="ST"
+            lat="32.32236057" lng="-86.7838712" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02458190" sna="TRIB TO VILLAGE CREEK AT 50th ST IN BIRMINGHAM" cat="ST"
+            lat="33.54843779" lng="-86.7613783" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02457000" sna="FIVEMILE CREEK AT KETONA AL" cat="ST" lat="33.60149249"
+            lng="-86.7555457" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02423425" sna="CAHABA RIVER NEAR CAHABA HEIGHTS AL" cat="ST" lat="33.4156637"
+            lng="-86.7397099" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02458148" sna="VILLAGE CREEK AT 86TH ST NORTH AT ROEBUCK, AL." cat="ST"
+            lat="33.5770483" lng="-86.7188778" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02423380" sna="CAHABA RIVER NEAR MOUNTAIN BROOK AL" cat="ST" lat="33.4817724"
+            lng="-86.7127653" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02369800" sna="BLACKWATER RIVER NEAR BRADLEY AL" cat="ST" lat="31.02767985"
+            lng="-86.7099567" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="03575830" sna="INDIAN CREEK NEAR MADISON AL" cat="ST" lat="34.6973134"
+            lng="-86.6999967" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02423414" sna="LITTLE CAHABA RIVER AT CAH BEA RD NR CAHABA HTS AL" cat="ST"
+            lat="33.43982948" lng="-86.6988758" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02455980" sna="TURKEY CREEK AT SEWAGE PLANT NEAR PINSON AL" cat="ST"
+            lat="33.71121273" lng="-86.6961013" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02449838" sna="DUCK RIVER ABOVE HWY 278 NEAR BERLIN, ALA." cat="ST" lat="34.1725"
+            lng="-86.69388889" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="03575980" sna="MCDONALD CREEK AT PATTON ROAD NR HUNTSVILLE AL" cat="ST"
+            lat="34.69259115" lng="-86.627494" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="0357591500" sna="BROGLAN BRANCH AT OAKWOOD AVENUE AT HUNTSVILLE, AL" cat="ST"
+            lat="34.7495353" lng="-86.62527179" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02423400" sna="LITTLE CAHABA RIVER NR JEFFERSON PARK, AL." cat="ST"
+            lat="33.4998273" lng="-86.6141521" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02449882" sna="BLUE SPRINGS CREEK NEAR BLOUNTSVILLE, AL." cat="ST"
+            lat="34.0798198" lng="-86.60777" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02423130" sna="CAHABA RIVER AT TRUSSVILLE, AL." cat="ST" lat="33.62232504"
+            lng="-86.599431" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="0357587090" sna="WEST FORK PINHOOK CR AT BLUE SPRS RD AT HUNTSVILLE" cat="ST"
+            lat="34.78842358" lng="-86.5986045" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="03575950" sna="HUNTSVILLE SP BR AT JOHNSON ROAD, HUNTSVILLE AL" cat="ST"
+            lat="34.6900911" lng="-86.5963817" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="03575890" sna="PINHOOK CREEK AT CLINTON AVE. AT HUNTSVILLE, AL." cat="ST"
+            lat="34.72759099" lng="-86.5933262" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="0357587400" sna="PINHOOK C AT MASTIN LAKE RD AT HUNTSVILLE, ALA" cat="ST"
+            lat="34.77147944" lng="-86.5922153" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02423110" sna="CAHABA RIVER NEAR TRUSSVILLE, ALA" cat="ST" lat="33.66565755"
+            lng="-86.592209" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="0357587140" sna="EAST FORK PINHOOK CR AT WINCHESTER RD AT HUNTSVIL" cat="ST"
+            lat="34.79286797" lng="-86.5891598" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02408150" sna="WALNUT CREEK ABOVE CLANTON, ALA" cat="ST" lat="32.89027778"
+            lng="-86.5791667" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="0357586650" sna="FAGAN CREEK AT ADAMS STREET AT HUNTSVILLE, AL." cat="ST"
+            lat="34.722591" lng="-86.5749921" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="0357587728" sna="DALLAS BRANCH AT COLEMAN ST IN HUNTSVILLE, AL" cat="ST"
+            lat="34.74564649" lng="-86.5741588" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02455000" sna="LOCUST FORK NEAR CLEVELAND, AL." cat="ST" lat="34.02454235"
+            lng="-86.5741573" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02423397" sna="LITTLE CAHABA RIVER BELOW LEEDS, AL." cat="ST" lat="33.53454886"
+            lng="-86.5624847" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="03575500" sna="TENNESSEE RIVER AT WHITESBURG AL" cat="ST" lat="34.57175806"
+            lng="-86.5580466" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="0357568980" sna="ALDRIDGE C AT SHERWOOD DR NR HUNTSVILLE, ALA" cat="ST"
+            lat="34.6642578" lng="-86.5541579" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="0357568650" sna="ALDRIDGE CREEK AT TONEY DRIVE AT HUNTSVILLE, AL." cat="ST"
+            lat="34.6981466" lng="-86.5505467" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02423160" sna="CAHABA RIVER NEAR WHITES CHAPEL AL" cat="ST" lat="33.60371416"
+            lng="-86.5491517" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="03575700" sna="ALDRIDGE CREEK NEAR FARLEY AL" cat="ST" lat="34.6239801"
+            lng="-86.54110169" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02372430" sna="CONECUH RIVER AT RIVER FALLS, ALABAMA" cat="ST" lat="31.34822474"
+            lng="-86.5294047" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02372422" sna="CONECUH RIVER BEL PT A DAM NR RIVER FALLS, AL." cat="ST"
+            lat="31.3612799" lng="-86.5196826" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="0357526200" sna="BIG COVE CREEK AT DUG HILL ROAD NR HUNTSVILLE, AL." cat="ST"
+            lat="34.70481325" lng="-86.512212" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02407514" sna="YELLOWLEAF CREEK NEAR WESTOVER, ALA." cat="ST" lat="33.32066689"
+            lng="-86.4952592" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02420490" sna="AUTAUGA CREEK NEAR PRATTVILLE, ALA" cat="ST" lat="32.46666667"
+            lng="-86.485" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02420500" sna="AUTAUGA CREEK AT PRATTVILLE, AL." cat="ST" lat="32.45846908"
+            lng="-86.47497479" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="0357479650" sna="HESTER CREEK AT BUDDY WILLIAMSON RD NR PLEVNA, AL" cat="ST"
+            lat="34.96092128" lng="-86.4636024" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02407526" sna="COOSA RIVER AT GASTON STEAM PLANT NR WILSONVILLE" cat="ST"
+            lat="33.24122519" lng="-86.4583132" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="03575272" sna="PEEVEY CREEK NEAR GURLEY, ALA" cat="ST" lat="34.68203467"
+            lng="-86.44832149" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="03575100" sna="FLINT RIVER AT BROWNSBORO, AL." cat="ST" lat="34.7492568"
+            lng="-86.4466551" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02455185" sna="BLACKBURN FORK LITTLE WARRIOR R NR HOLLY SPRINGS" cat="ST"
+            lat="33.8606544" lng="-86.4458178" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02420000" sna="ALABAMA RIVER NEAR MONTGOMERY, AL." cat="ST" lat="32.41152597"
+            lng="-86.40830579" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02372250" sna="PATSALIGA CREEK NEAR BRANTLEY AL" cat="ST" lat="31.59627177"
+            lng="-86.40551809" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02405500" sna="KELLY CREEK NEAR VINCENT AL" cat="ST" lat="33.44760728"
+            lng="-86.386924" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02407000" sna="COOSA RIVER AT CHILDERSBURG AL" cat="ST" lat="33.29177917"
+            lng="-86.36386659" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02419988" sna="ALABAMA RIVER AT MONTGOMERY AL" cat="ST" lat="32.39208224"
+            lng="-86.3177475" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="03574500" sna="PAINT ROCK RIVER NEAR WOODVILLE AL" cat="ST" lat="34.6242547"
+            lng="-86.3063737" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02421000" sna="CATOMA CREEK NEAR MONTGOMERY AL" cat="ST" lat="32.30736239"
+            lng="-86.2994126" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02406930" sna="SHIRTEE CREEK NEAR ODENA, ALABAMA" cat="ST" lat="33.21178164"
+            lng="-86.273308" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02408540" sna="HATCHET CREEK BELOW ROCKFORD AL" cat="ST" lat="32.9167896"
+            lng="-86.2702507" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02401390" sna="BIG CANOE CREEK AT ASHVILLE AL" cat="ST" lat="33.8398211"
+            lng="-86.2627559" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02371500" sna="CONECUH RIVER AT BRANTLEY AL" cat="ST" lat="31.57349458"
+            lng="-86.2516226" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02406500" sna="TALLADEGA CREEK AT ALPINE AL" cat="ST" lat="33.35955497"
+            lng="-86.2341414" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02411600" sna="COOSA RIVER AT WETUMPKA AL" cat="ST" lat="32.53707835"
+            lng="-86.208857" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02411590" sna="COOSA RIVER AT HWY 14 NEAR WETUMPKA, AL" cat="ST" lat="32.5505472"
+            lng="-86.1957944" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02419890" sna="TALLAPOOSA RIVER NEAR MONT.-MONT. WATER WORKS" cat="ST"
+            lat="32.43985898" lng="-86.1955222" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="03574100" sna="ESTILL FORK AT ESTILLFORK AL" cat="ST" lat="34.91"
+            lng="-86.1683333" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02364500" sna="PEA RIVER NEAR SAMSON AL" cat="ST" lat="31.11267588"
+            lng="-86.0993868" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02404400" sna="CHOCCOLOCCO CREEK AT JACKSON SHOAL NR LINCOLN AL" cat="ST"
+            lat="33.5484383" lng="-86.0969163" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02364000" sna="PEA RIVER AT ELBA, AL." cat="ST" lat="31.4134998"
+            lng="-86.0630019" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02401000" sna="BIG WILLS CREEK NEAR REECE CITY" cat="ST" lat="34.0981515"
+            lng="-86.0380286" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02401895" sna="OHATCHEE CREEK AT OHATCHEE, ALA." cat="ST" lat="33.7803769"
+            lng="-85.9983035" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02400500" sna="COOSA RIVER AT GADSDEN AL" cat="ST" lat="34.0103752"
+            lng="-85.9977494" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="03572900" sna="TOWN CREEK NEAR GERALDINE AL" cat="ST" lat="34.3784235"
+            lng="-85.9902524" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02419670" sna="CUBAHATCHEE CREEK AT US 80 NEAR SHORTER, ALA." cat="ST"
+            lat="32.395" lng="-85.9722222" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02400496" sna="COOSA RIVER AT GADSDEN STEAM PLANT NR GADSDEN,ALA." cat="ST"
+            lat="34.01398655" lng="-85.9702488" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02362240" sna="LITTLE DOUBLE BRIDGES CREEK NR ENTERPRISE, AL." cat="ST"
+            lat="31.27239318" lng="-85.9582737" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02419790" sna="LINE CREEK ON MACON COUNTY RD, NR CECIL, ALA." cat="ST"
+            lat="32.30277778" lng="-85.9544444" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="03572690" sna="SOUTH SAUTY CREEK NEAR RAINSVILLE, ALA" cat="ST" lat="34.4986981"
+            lng="-85.9296966" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="03572153" sna="LITTLE COON CREEK AT COUNTY RD 53 NR. STEVENSON" cat="ST"
+            lat="34.87416667" lng="-85.9108333" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02419500" sna="TALLAPOOSA RIVER AT MILSTEAD AL" cat="ST" lat="32.44902654"
+            lng="-85.897458" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02415000" sna="HILLABEE CREEK NEAR HACKNEYVILLE AL" cat="ST" lat="33.06539786"
+            lng="-85.8780186" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02362000" sna="CHOCTAWHATCHEE RIVER NEAR GENEVA, ALABAMA" cat="ST"
+            lat="31.0412902" lng="-85.8521574" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02403310" sna="CHOCCOLOCCO CREEK NEAR BOILING SPRING, ALABAMA" cat="ST"
+            lat="33.60204998" lng="-85.7852411" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02361500" sna="CHOCTAWHATCHEE RIVER NEAR BELLWOOD AL" cat="ST" lat="31.15934229"
+            lng="-85.7843789" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02363000" sna="PEA RIVER NEAR ARITON AL" cat="ST" lat="31.59488716"
+            lng="-85.7829975" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02400680" sna="BIG WILLS CREEK AT STATE HWY 35 NR FORT PAYNE, AL" cat="ST"
+            lat="34.43814386" lng="-85.7671907" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02399500" sna="COOSA RIVER AT LEESBURG AL" cat="ST" lat="34.1767623"
+            lng="-85.7538552" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02414715" sna="TALLAPOOSA RIVER NR NEW SITE, AL.(HORSESHOE BEND)" cat="ST"
+            lat="32.97734526" lng="-85.7396808" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02419000" sna="UPHAPEE CREEK NEAR TUSKEGEE AL" cat="ST" lat="32.4768045"
+            lng="-85.69495359" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02399200" sna="LITTLE RIVER NEAR BLUE POND AL" cat="ST" lat="34.2889813"
+            lng="-85.6805204" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02400100" sna="TERRAPIN CREEK AT ELLISVILLE AL" cat="ST" lat="34.06509836"
+            lng="-85.6141287" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02361000" sna="CHOCTAWHATCHEE RIVER NEAR NEWTON, AL." cat="ST" lat="31.3429492"
+            lng="-85.6104912" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02418230" sna="SOUGAHATCHEE CREEK AT CO RD 188 NR LOACHAPOKA, AL." cat="ST"
+            lat="32.62680015" lng="-85.5880076" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02414500" sna="TALLAPOOSA RIVER AT WADLEY AL" cat="ST" lat="33.11678684"
+            lng="-85.5607875" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02412000" sna="TALLAPOOSA RIVER NEAR HEFLIN, ALA." cat="ST" lat="33.622885"
+            lng="-85.5132894" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02398300" sna="CHATTOOGA RIVER ABOVE GAYLESVILLE AL" cat="ST" lat="34.29036965"
+            lng="-85.5091268" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02418760" sna="CHEWACLA CREEK AT CHEWACLA STATE PARK NR AUBURN" cat="ST"
+            lat="32.5481918" lng="-85.4805044" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02397530" sna="COOSA RIVER AT STATE LINE, AL/GA" cat="ST" lat="34.20176124"
+            lng="-85.447458" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02413300" sna="LITTLE TALLAPOOSA RIVER NEAR NEWELL AL" cat="ST" lat="33.43733498"
+            lng="-85.399118" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02339495" sna="OSELIGEE CREEK NEAR LANETT AL" cat="ST" lat="32.9015159"
+            lng="-85.1963308" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="0234296910" sna="CHATTAHOOCHEE RIVER AT COAST GUARD DOCK AT EUFAULA" cat="LK"
+            lat="31.90821568" lng="-85.144932" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="023432415" sna="CHATTAHOOCHEE R .36 MI DS WFG DAM NR FT GAINES, GA" cat="ST"
+            lat="31.62138889" lng="-85.06" agc="USGS" />
+    </sites>
+    <sites>
+        <site sno="02342500" sna="UCHEE CREEK NEAR FORT MITCHELL, AL." cat="ST" lat="32.31681467"
+            lng="-85.014931" agc="USGS" />
+    </sites>
+</mapper>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/SearchActivator"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_gradient"
+    android:paddingTop="150dp"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="valenciaprogrammers.com.waterapp.StartActivity"
+    tools:showIn="@layout/activity_start">
+
+    <!--<LinearLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:orientation="vertical">-->
+
+    <!--<AutoCompleteTextView-->
+    <!--android:id="@+id/searchCounty"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="418dp"-->
+    <!--android:ems="10"-->
+    <!--android:gravity="bottom"-->
+    <!--android:hint="Search By County Here:"-->
+    <!--android:inputType="text"-->
+    <!--android:maxLines="1"-->
+    <!--android:paddingBottom="50dp"-->
+
+    <!--android:textColor="#000000"-->
+    <!--android:visibility="visible" />-->
+    <!--</LinearLayout>-->
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="394dp"
+        android:layout_height="414dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="6dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <!--<Spinner-->
+        <!--android:id="@+id/planets_spinner"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:gravity="bottom|center|center_horizontal|center_vertical"-->
+        <!--android:textColor="#000000"-->
+        <!--android:visibility="visible" />-->
+
+        //android:popupBackground="@android:drawable/bottom_bar"
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
